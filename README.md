@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/devThom-studios/readme-typing-svg">
+  <a href="https://github.com/damponsah20/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Researcher;Data%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -18,8 +18,8 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-       🔭 I am currently a final year undergraduate student at Kwame Nkrumah University of Science and Technology, Kumasi-Ghana, working on CHARACTERISTICS AND LONG TERM TRENDS OF HEATWAVES OVER GHANA (selected some towns in Ghanas' Sudan and Guinea Savannah agro-climatic zones using outputs from Representative Concentration Pathway (RCP 2.6, 8.5) and Ghana Meteorological Data. Results indicate the intensification of more heatwave events (2025 - 2054) , with mean magnitudes increasing by 0.5˚C to 2.5˚C. The frequency of heatwave days is projected to rise by 8.1% to 58% annually. Our findings suggest a significant intensification of heatwaves in the selected regions, with potential severe impacts on ecosystems and human health. This underscores the urgent need for enhanced planning, early warning systems and adaptive measures![image](https://github.com/user-attachments/assets/0453ff5a-e666-40b5-aa57-3e3c56110cf2)
-. We recommend prioritizing heat-resilient infrastructure and community-based adaptation strategies to safeguard vulnerable populations in Ghana![image](https://github.com/user-attachments/assets/da8e70c4-2175-4371-8194-dbbb53be5827)
+       🔭 I am currently a final year undergraduate student at Kwame Nkrumah University of Science and Technology, Kumasi-Ghana, working on CHARACTERISTICS AND LONG TERM TRENDS OF HEATWAVES OVER GHANA (selected some towns in Ghanas' Sudan and Guinea Savannah agro-climatic zones) using outputs from Representative Concentration Pathway (RCP 2.6, 8.5) and Ghana Meteorological Data. Results indicate the intensification of more heatwave events (2025 - 2054) , with mean magnitudes increasing by 0.5˚C to 2.5˚C. The frequency of heatwave days is projected to rise by 8.1% to 58% annually. Our findings suggest a significant intensification of heatwaves in the selected regions, with potential severe impacts on ecosystems and human health. This underscores the urgent need for enhanced planning, early warning systems and adaptive measures!
+. We recommend prioritizing heat-resilient infrastructure and community-based adaptation strategies to safeguard vulnerable populations in Ghana!
 . Other papers / reasearch indicate the intensification of heatwaves events in the future 👀 ,  Climate Science is fun💟
      </td>
   </tr>
