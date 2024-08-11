@@ -76,10 +76,8 @@ Do you care to know more about me?
  
 
   
-</p>
 
-
-
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
