@@ -7,8 +7,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/daniel-amponsah-89a783217/" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
-   <code><a href="https://twitter.com/@just_amponsah" title="Twitter Profile"><img width="22" src=twitter.svg">Twitter</a></code>
-   <code><a href="https://https://www.instagram.com/just_amponsah?utm_source=qr/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
+   <code><a href="https://twitter.com/@just_amponsah" title="Twitter Profile"><img width="22" src=twitter.svg">twitter</a></code>
+   <code><a href="https://www.instagram.com/just_amponsah?utm_source=qr/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
