@@ -4,6 +4,15 @@
   </a>
 </h1>
 
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/daniel-amponsah-89a783217/" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
+   <code><a href="https://twitter.com/@just_amponsah" title="Twitter Profile"><img width="22" src=twitter.svg">Twitter</a></code>
+   <code><a href="https://https://www.instagram.com/just_amponsah?utm_source=qr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+
+
 <p align="center">
   <a href="https://github.com/damponsah20/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Researcher;Data%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
