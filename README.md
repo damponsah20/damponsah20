@@ -61,22 +61,25 @@ Do you care to know more about me?
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <img title="Python" height="27" src="Python.svg">
-  <img title="Jupyter" height="27" src="Jupyter.svg">
-  <img title="Pandas" height="27" src="Pandas.svg">
-  <img title="NumPy" height="27" src="NumPy.svg">
-  <img title="Matplotlib" height="27" src="matplotlib.svg">
-  <img title="Scikit-learn" height="27" src="scikit-learn.svg">
-  <img title="Latex" height="27" src="latex.svg">
-  <img title="PyCharm" height="27" src="PyCharm.png">
-  <img title="Visual Studio Code" height="27" src="Visual Studio Code (VS Code).svg">
-  <img title="Problem Solving" height="27" src="problemSolving.png">
+  <img title="Python" height="30" src="Python.svg">
+  <img title="Jupyter" height="30" src="Jupyter.svg">
+  <img title="Pandas" height="30" src="Pandas.svg">
+  <img title="NumPy" height="30" src="NumPy.svg">
+  <img title="Matplotlib" height="30" src="matplotlib.svg">
+  <img title="Scikit-learn" height="30" src="scikit-learn.svg">
+  <img title="Latex" height="30" src="latex.svg">
+  <img title="PyCharm" height="30" src="PyCharm.png">
+  <img title="Visual Studio Code" height="30" src="Visual Studio Code (VS Code).svg">
+  <img title="Problem Solving" height="30" src="problemSolving.png">
 </p>
 
  
 
   
 </p>
+
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
