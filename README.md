@@ -61,7 +61,7 @@ Do you care to know more about me?
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="./images/Python.svg"></code>
+  <img src="https://raw.githubusercontent.com/damponsah20/damponsah20/main/images/Python.svg" alt="Python" height="25">
   <code><img title="Python" height="25" src="images/Python.svg"></code>
   <code><img title="Jupyter" height="25" src="images/Jupyter.svg"></code>
   <code><img title="Pandas" height="25" src="images/Pandas.svg"></code>
