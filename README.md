@@ -1,4 +1,3 @@
-# AMPONSAH-DANIEL
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AMPONSAH+DANIEL!&center=true&size=30">
@@ -72,6 +71,10 @@ Do you care to know more about me?
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="20" height="20"/></a> 
+<code><img title="Visual Studio Code" height="25" src="images/Visual Studio Code (VS Code).svg"></code>
+<code><img title="Latex" height="25" src="images/latex.svg"></code>
+<code><img title="Jupyter" height="25" src="images/Jupyter.svg"></code>
+
 </div>
 
 <h3 align="center"> 
