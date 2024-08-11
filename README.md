@@ -61,29 +61,16 @@ Do you care to know more about me?
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <img title="Python" height="25" src="https://raw.githubusercontent.com/damponsah20/damponsah20/main/Python.svg">
-  <code><img title="Python" height="25" src="images/Python.svg"></code>
-  <code><img title="Jupyter" height="25" src="images/Jupyter.svg"></code>
-  <code><img title="Pandas" height="25" src="images/Pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/NumPy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Scikit-learn" height="25" src="images/scikit-learn.svg"></code>
-  <code><img title="Latex" height="25" src="images/latex.svg"></code>
-  <code><img title="PyCharm" height="25" src="images/PyCharm.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/Visual Studio Code (VS Code).svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<p align="center">
-  <img title="Python" height="25" src="Python.svg">
-  <img title="Jupyter" height="25" src="Jupyter.svg">
-  <img title="Pandas" height="25" src="Pandas.svg">
-  <img title="NumPy" height="25" src="NumPy.svg">
-  <img title="Matplotlib" height="25" src="matplotlib.svg">
-  <img title="Scikit-learn" height="25" src="scikit-learn.svg">
-  <img title="Latex" height="25" src="latex.svg">
-  <img title="PyCharm" height="25" src="PyCharm.png">
-  <img title="Visual Studio Code" height="25" src="Visual Studio Code (VS Code).svg">
-  <img title="Problem Solving" height="25" src="problemSolving.png">
+  <img title="Python" height="27" src="Python.svg">
+  <img title="Jupyter" height="27" src="Jupyter.svg">
+  <img title="Pandas" height="27" src="Pandas.svg">
+  <img title="NumPy" height="27" src="NumPy.svg">
+  <img title="Matplotlib" height="27" src="matplotlib.svg">
+  <img title="Scikit-learn" height="27" src="scikit-learn.svg">
+  <img title="Latex" height="27" src="latex.svg">
+  <img title="PyCharm" height="27" src="PyCharm.png">
+  <img title="Visual Studio Code" height="27" src="Visual Studio Code (VS Code).svg">
+  <img title="Problem Solving" height="27" src="problemSolving.png">
 </p>
 
  
