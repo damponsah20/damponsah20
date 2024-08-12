@@ -58,7 +58,7 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-      ⚡ Interestingly, one fun fact about me is that I never rest until a task is completed or a better version is produced💞️.
+      ⚡ Interestingly, one fun fact about me is that I never rest until a task is completed or a better version is produced.
       </td>
   </tr>
   
