@@ -38,7 +38,7 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-      🤝 I am open to partnering on initiatives involving data, climate science, Artificial Intelligence. Volunteering / Collaborating for research that captures my interest is something I would consider.
+      🤝 I am open to partnering on initiatives involving data, climate science, ML and Artificial Intelligence. Volunteering / Collaborating for research that captures my interest is something I would consider.
       </td>
   </tr>
   
