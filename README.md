@@ -26,7 +26,7 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-       🔭 I am currently a Teaching/Research Assistant at Kwame Nkrumah University of Science and Technology, Kumasi-Ghana working on various projects related to  Atmospheric and Climate dynamics. I regularly do a lot of data analysis, reaseach , tutoring , write manuscripts etc. Most of the projects( scripts, write-ups) I am involed in have been uploaded here.  Climate Science is fun💟
+       🔭 I am currently a Teaching/Research Assistant at Kwame Nkrumah University of Science and Technology, Kumasi-Ghana working on various projects related to  Atmospheric and Climate dynamics. I regularly do a lot of data analysis, reaseach , tutoring , write manuscripts etc. Most of the projects( scripts, write-ups) I am involved in have been uploaded here.  Climate Science is fun💟
      </td>
   </tr>
   
