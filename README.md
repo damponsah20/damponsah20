@@ -50,7 +50,7 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-      📫 You can reach out to me at amponsahdaniel2020@gmail.com or damponsah11@st.knust.edu.gh. You are welcome to have an engaging conversation about science, data and creative development and others.
+      📫 You can reach out to me at amponsahdaniel2020@gmail.com. You are welcome to have an engaging conversation about science, data and creative development and others.
       </td>
   </tr>
   
